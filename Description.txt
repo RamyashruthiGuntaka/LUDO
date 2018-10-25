@@ -1,0 +1,13 @@
+About the game
+Ludo is board game for two to four players,in which the players race their four tokens from start to finish according to die rolls.
+
+Implementation
+Ludo game implemented in python using pygame libraray.
+
+Description
+Left part of the window has ludo board and tokens and right part of the window has controls. To play the game follow below steps
+
+Roll dice by clicking on Roll button.
+Select which token you want to move by clicking on respective button as depicted in window_screenshot.png.
+To move a token click on Move button.
+Repeat same for next player.

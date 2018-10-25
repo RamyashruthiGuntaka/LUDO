@@ -1,0 +1,3 @@
+Pre-requisites for execution of LUDO game are python2.7 and pygame.
+Command to install python is:sudo apt-get install python.
+Command to install pygame is:sudo apt-get install python-pygame.
